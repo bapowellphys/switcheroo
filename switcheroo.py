@@ -12,10 +12,7 @@
 #
 # USAGE: switcheroo.py <target1> <target2> <interface>
 #
-# LICENSE: This software is licensed under Creative Commons 4.0 (BY-NC-SA). 
-# (See https://creativecommons.org/licenses/by-nc-sa/4.0/ for more info).
 #
-
 
 import os,sys
 from scapy.all import *
